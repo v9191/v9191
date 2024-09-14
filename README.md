@@ -20,15 +20,7 @@ I am actively seeking a dynamic and challenging career opportunity where I can c
 - **Database Management:** MySQL, SQL
 - **Tools:** Excel, User Interface Design
 
-## Contact
-Feel free to reach out via email or LinkedIn for collaboration opportunities or any inquiries.
-
-## Hobbies
-- Music
-- Fitness (Gym)
-
----
 
 ## Contact
-Feel free to reach out via email or LinkedIn for collaboration opportunities or any inquiries.
+Feel free to reach out via email or LinkedIn for collaboration opportunities or any inquiries and Jobs.
 
