@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">I am Vivek Brijnath Pal, an aspiring data scientist and software developer with a strong foundation in Python, machine learning, and data analysis. Currently pursuing a Master of Science in Information Technology, I am passionate about solving real-world problems through technology.<br><br>I actively seek opportunities to apply my skills in dynamic, challenging environments and contribute to the growth of innovative organizations.</h2>
 
 ###
 
