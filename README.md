@@ -10,14 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <img src="https://raw.githubusercontent.com/v9191/v9191/output/snake.svg" alt="Snake animation" />
 
 ###
