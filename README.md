@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Vivek Brijnath Pal<br>Email: palvivek100193@gmail.com<br>Phone: +91 8291380052<br>Location: Kalyan, Maharashtra, India<br>LinkedIn: Vivek Pal</p>
+
 
 ###
 
@@ -76,3 +76,4 @@
 </div>
 
 ###
+<p align="left">Vivek Brijnath Pal<br>Email: palvivek100193@gmail.com<br>Phone: +91 8291380052<br>Location: Kalyan, Maharashtra, India<br>LinkedIn: Vivek Pal</p>
